@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Saron Philippi 👋
 
-<!--
-**saronph/saronph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+➤ Software Engineer Front-end | Mobile  (React | React Native) at [@frengee](https://www.linkedin.com/company/frengee/) 
 
-Here are some ideas to get you started:
+## Techs I'm working with at the moment (Job)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➤ React  
+➤ React Native 
+➤ TypeScript  
+➤ Styled-componets
+
+## Techs I'm working with at the moment (Personal Project)
+
+➤ Next.js  
+➤ Tailwind 
+➤ Node.js 
+➤ TypeScript  
+➤ MongoDB

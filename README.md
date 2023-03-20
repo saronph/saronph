@@ -4,15 +4,15 @@
 
 ## Techs I'm working with at the moment (Job)
 
-➤ React  
-➤ React Native 
-➤ TypeScript  
+➤ React
+➤ React Native
+➤ TypeScript
 ➤ Styled-componets
 
 ## Techs I'm working with at the moment (Personal Project)
 
 ➤ Next.js  
-➤ Tailwind 
-➤ Node.js 
-➤ TypeScript  
+➤ Tailwind
+➤ Node.js
+➤ TypeScript
 ➤ MongoDB

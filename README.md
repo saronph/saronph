@@ -10,14 +10,14 @@
 ## Techs I'm working with at the moment (Job)
 
 ➤ React  
+➤ Next.js  
 ➤ React Native  
 ➤ TypeScript  
 ➤ Styled-componets  
+➤ Tailwind css  
 
 ## Techs I'm working with at the moment (Personal Project)
 
-➤ Next.js  
-➤ Tailwind  
 ➤ Node.js  
 ➤ MongoDB  
 

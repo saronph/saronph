@@ -1,6 +1,6 @@
 # Hi, I'm Saron Philippi 👋
 
-➤ Software Engineer Front-end | Mobile  (React | React Native) at [@frengee](https://www.linkedin.com/company/frengee/) 
+➤ Software Engineer Front-end | Mobile  (React | React Native) at [@orbe](https://www.linkedin.com/company/orbe-experience) 
 
 <div> 
   <a href = "mailto:saron.ph@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
